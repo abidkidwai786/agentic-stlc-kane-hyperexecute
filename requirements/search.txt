@@ -19,4 +19,3 @@ User can remove an item from the shopping cart and see the cart update with the 
 User can update the quantity of an item in the shopping cart and see the line total recalculate
 User can sort products by price low to high and see the listing order change
 User can add a product to the wish list from the product detail page and view it in the wishlist
-User can complete a guest checkout by entering a shipping address and selecting flat rate shipping
